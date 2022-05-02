@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+.navi{font-size: 21px;}
+img{max-width: 100%; height: auto;}
+.wrap{width: 1200px; margin: auto;}
+.text-center{text-align: center;}
+
+.text{color: #222222; line-height: 1.5; font-size: 20px;}
+.space{margin: 0 0 40px}
+.image{display: grid; grid-template-columns: auto auto auto auto;}
+
+.box{display: flex; flex-direction: row-reverse; padding: auto;}
+.box2{display: flex; flex-direction: row; padding: auto;}
+.space3{margin: 0 0 60px}
+.course_title{color: #ffd61a; margin: 0 0 40px; font-size: 24px; font-weight: bold;}
+.course_bcg{background-color: #fafafa;}
+
+img[src$="img/course_02.jpg"]{width: 1200px; margin: auto;}
+img[src$="img/choki.png"]{width:20vmin; height:20vmin;}
+img[src$="img/pa.png"]{width:20vmin; height:20vmin;}
+img[src$="img/gu.png"]{width:20vmin; height:20vmin;}
+
+p1{font-size: 21px; color: #ffd61a;}
